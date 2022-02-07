@@ -1,0 +1,35 @@
+body {
+    background-color: rgb(29, 114, 143);
+    background-position: 0in;
+    background-image: -webkit-gradient();
+    
+    background: rgb(122, 13, 13) url("bg.jpg") no-repeat;
+    
+    /* Full height */
+  height: 100%;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  overflow: scroll;
+
+  }
+  #wrapper{
+    position:absolute;
+    top:0;
+    left:0;
+    right:0;
+    bottom:0;
+    overflow:hidden;
+}
+#dropdown{
+  
+  position: relative;
+  display: inline-block;
+  vertical-align: middle;
+  margin: 10px; /* demo only *
+
+}
+
+

@@ -1,0 +1,26 @@
+body {
+  /* background-color: #9f9f9f; */
+  background-image: "bg.jpg";
+}
+
+table,
+th,
+td {
+  border: 1px solid black;
+}
+
+.dashboard .chart{
+    width: 100%;
+}
+
+.red{
+    color:red;
+}
+
+.green{
+    color:green;
+}
+
+.card{
+    color:green;
+}
